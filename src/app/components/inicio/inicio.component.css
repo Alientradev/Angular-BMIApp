@@ -1,0 +1,58 @@
+.fondoItem {
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    height: 130px;
+    color: white;
+}
+
+.btn-color {
+	background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 50px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 100%;
+}
+
+.btn-color:hover {
+	background: rgba(80, 80, 80, 0.35);
+}
+
+.genero {
+    font-size: 40px;
+}
+
+.estiloNumero {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: -30px;
+}
+
+.cm {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.form-range {
+    padding: 0px 20px;
+}
+
+.sumaResta {
+    cursor: pointer;
+    font-size: 25px;
+    margin: 3px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.generoDesactivado{
+    background: rgba(126, 120, 120, 0.562);
+    border-radius: 10px;
+}

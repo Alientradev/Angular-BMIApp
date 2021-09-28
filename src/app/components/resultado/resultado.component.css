@@ -1,0 +1,41 @@
+.fondoItem {
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    height: 400px;
+    color: white;
+}
+
+.btn-color {
+	background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 50px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 100%;
+}
+
+.btn-color:hover {
+	background: rgba(80, 80, 80, 0.35);
+}
+
+.resultado {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bmiNumero {
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-top: 40px;
+}
+
+.interpretacion {
+    margin: 10px;
+    font-size: 20px;
+}
